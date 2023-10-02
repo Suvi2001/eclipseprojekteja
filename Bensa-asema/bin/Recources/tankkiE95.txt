@@ -1,0 +1,35 @@
+68137
+
+
+Mon Oct 26 16:02:43 EET 2020
+Bensaa tankattu : -28.0 litraa 
+Fri Oct 30 16:04:02 EET 2020
+Bensaa tankattu : -0.0 litraa 
+Fri Oct 30 16:04:15 EET 2020
+Bensaa tankattu : -0.0 litraa 
+Fri Oct 30 16:04:28 EET 2020
+Bensaa tankattu : -12.6 litraa 
+Fri Oct 30 16:04:40 EET 2020
+Bensaa tankattu : -281.4 litraa 
+Fri Oct 30 16:04:48 EET 2020
+Bensaa tankattu : -28.0 litraa 
+Fri Nov 27 13:56:13 EET 2020
+Bensaa tankattu : -70.0 litraa 
+Fri Nov 27 13:58:05 EET 2020
+Bensaa tankattu : -28.0 litraa 
+Tue Dec 01 21:25:40 EET 2020
+Bensaa tankattu : -70.0 litraa 
+Thu Dec 03 21:01:16 EET 2020
+Bensaa tankattu : -0.0 litraa 
+Mon Dec 07 20:41:54 EET 2020
+Bensaa tankattu : -2.8 litraa 
+Fri Dec 11 14:07:16 EET 2020
+Bensaa tankattu : -0.0 litraa 
+Tue Dec 22 21:13:43 EET 2020
+Bensaa tankattu : -70.0 litraa 
+Wed Dec 23 15:51:17 EET 2020
+Bensaa tankattu : -70.0 litraa 
+Sun May 02 17:32:05 EEST 2021
+Bensaa tankattu : -28.0 litraa 
+Thu Nov 11 14:11:09 EET 2021
+Bensaa tankattu : -28.0 litraa 
